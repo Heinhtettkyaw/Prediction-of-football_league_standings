@@ -35,8 +35,8 @@ The **Poisson distribution** models the number of goals each team is likely to s
 - `A` = Away Win  
 - `D` = Draw  
 
-- **Training Data:** `2004-05 to 2022-23`  
-- **Test Data:** `2023-24`  
+- **Training Data:** `2004-05 to 2023-24`  
+- **Test Data:** `2024-2025 ` & League Standings  
 
 ---
 
